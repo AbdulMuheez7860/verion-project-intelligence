@@ -1,0 +1,10 @@
+[
+  {
+    "code": "F401",
+    "message": "Unused import",
+    "location": {
+      "filename": "/workspace/app/main.py",
+      "row": 3
+    }
+  }
+]

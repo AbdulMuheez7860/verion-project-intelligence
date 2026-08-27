@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "test_id": "B105",
+      "issue_text": "Possible hardcoded password",
+      "issue_severity": "LOW",
+      "line_number": 8,
+      "filename": "/workspace/app/config.py",
+      "issue_cwe": { "id": 259 }
+    }
+  ]
+}

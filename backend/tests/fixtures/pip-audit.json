@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    {
+      "name": "requests",
+      "version": "2.25.0",
+      "vulns": [
+        {
+          "id": "PYSEC-2024-1",
+          "description": "Example vulnerability",
+          "severity": "high"
+        }
+      ]
+    }
+  ]
+}
